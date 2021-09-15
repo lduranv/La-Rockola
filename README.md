@@ -1,3 +1,3 @@
 # Primer-repositorio
-# Repositorio para proyecto laRockola.com - Grupo 7
-  
+# Repositorio para proyecto laRockola.com 
+# Grupo 7
